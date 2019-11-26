@@ -8,3 +8,11 @@ fetch("https://blabla.cz/blabla.json")
     // tady jde provést s daty cokoliv
   });
 */
+
+$(document).on('click', 'a[href^="#"]', function (event) {
+  event.preventDefault();
+
+  $('html, body').animate({
+      scrollTop: $($.attr(this, 'href')).offset().top
+  }, 500);
+});
