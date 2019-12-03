@@ -1,5 +1,5 @@
 .seznam-kapitol {
-    list-style: 
+    list-style:
 }
 
 .seznam-otazek {
@@ -17,29 +17,54 @@
     white-space: pre;
 }
 
-h1::before { 
-    display: block; 
-    content: " "; 
-    margin-top: -50px; 
-    height: 50px; 
-    visibility: hidden; 
+.kapitola-nazev {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+h1::before {
+    display: block;
+    content: " ";
+    margin-top: -50px;
+    height: 50px;
+    visibility: hidden;
     pointer-events: none;
 }
 
-h2::before { 
-    display: block; 
-    content: " "; 
-    margin-top: -40px; 
-    height: 40px; 
-    visibility: hidden; 
+h2::before {
+    display: block;
+    content: " ";
+    margin-top: -40px;
+    height: 40px;
+    visibility: hidden;
     pointer-events: none;
 }
 
-#obsah::before { 
-    display: block; 
-    content: " "; 
-    margin-top: -40px; 
-    height: 40px; 
-    visibility: hidden; 
+#obsah::before {
+    display: block;
+    content: " ";
+    margin-top: -40px;
+    height: 40px;
+    visibility: hidden;
     pointer-events: none;
+}
+
+#sel {
+    text-align: center;
+    padding: 5px;
+}
+
+#selector {
+    max-width: 100%;
+    margin: auto;
+}
+
+#map {
+    height: 400px;
+}
+#ttip {
+    text-align: center;
+    margin-top: 5px;
+    width: 100%;
+    min-height: 50px;
 }
