@@ -1,4 +1,8 @@
 ﻿import "./byeie"; // loučíme se s IE
+import { reaktory } from "./reaktory"
+import { makeMap } from "./map"
+
+makeMap(reaktory)
 
 $(document).on('click', 'a[href^="#"]', function (event) {
   event.preventDefault();
