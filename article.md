@@ -155,7 +155,7 @@ V posledních letech ovšem začíná velké instalace doplňovat nový trend: p
 
 <div id="GRAF: instalovaný výkon, parky × střechaři"></div>
 
-Kde solární parky stojí, ukazuje mapa instalací podle [seznamu licencí Energetického regulačního úřadu](http://licence.eru.cz/), aktuálního k letošnímu listopadu.
+Kde solární parky stojí a kdy se stavěly, ukazuje mapa instalací podle [seznamu licencí Energetického regulačního úřadu](http://licence.eru.cz/), aktuálního k letošnímu listopadu.
 
 <wide>
 <div class="flourish-embed" data-src="visualisation/1033932"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
