@@ -1,6 +1,6 @@
-title: "Dobrodružství fotovoltaiky"
+title: "Dobrodružství fotovoltaiky. Jaké jsou šance obnovitelných zdrojů v říši jádra?"
 perex: "Deset let po divokém solárním boomu se letos znovu otevírají plány na podporu fotovoltaiky. Ostrou diskusi mezi vládou a zastánci obnovitelných zdrojů provází řada otázek: Jaký má být jejich podíl na výrobě elektřiny? Jsou marginální, jak tvrdí česká vláda, nebo budoucí pilíř energetiky, jak věří Němci, Francouzi nebo Švédové? Kde jsou jejich limity? A mají vůbec plány na desítky let dopředu smysl, nebo rozhodne trh a výzkum?"
-published: "3. prosince 2019"
+published: "4. prosince 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/photovoltaic-491702__190513-091720_anj.jpg?itok=wV0bd9nY
 coverimg_note: ""
 styles: ['https://unpkg.com/leaflet@1.3.0/dist/leaflet.css']
@@ -224,9 +224,9 @@ Instalace obnovitelných zdrojů změnila předboomové poměry v české energe
 
 V Česku, na rozdíl od sousedního Německa, má největší potenciál energie ze slunce. Možnosti větrných turbín jsou slabší, i když ne zanedbatelné.
 
-„Oproti přímořským oblastem u nás příliš nefouká“, rozebírá Jiří Vaněk z VUT možnosti čisté energie. „V Německu jsou klíčové přímořské farmy, Rakousko má pás kolem Dunaje, kde stále fouká. Je to kousek od nás, ale úplně jiné počasí.“
+„Oproti přímořským oblastem u nás příliš nefouká,“ rozebírá Jiří Vaněk z VUT možnosti čisté energie. „V Německu jsou klíčové přímořské farmy, Rakousko má pás kolem Dunaje, kde stále fouká. Je to kousek od nás, ale úplně jiné počasí.“
 
-[Studie Akademie věd ČR](https://www.csve.cz/img/wysiwyg/file/VtE_potencial2012.pdf) ovšem vítr neodepisuje, potenciální výkon větrných elektráren odhaduje na 2300 MW.
+[Studie Ústavu fyziky atmosféry Akademie věd ČR](https://www.csve.cz/img/wysiwyg/file/VtE_potencial2012.pdf) ovšem vítr neodepisuje, potenciální výkon větrných elektráren odhaduje na 2300 MW.
 
 „Větrné podmínky v Rakousku jsou podobné jako u nás, v Sasku o něco lepší, v Bavorsku o něco horší,“ stojí na straně větru Štěpán Chalupa z Komory obnovitelných zdrojů energie. „Přitom když přepočítáte instalovaný výkon větrných elektráren na kilometr čtvereční, tak v Rakousku a Bavorsku mají asi devětkrát víc turbín, než my v Česku, v Sasku sedmnáctkrát víc.“
 
@@ -304,7 +304,7 @@ Druhým tématem, za který ministerská strategie schytala kritiku, byly plány
 
 Vedle biopaliv první generace ministerstvo plánuje vyrábět část biopaliv z odpadů, nicméně také řepka nebo kukuřice by měly podstatně posílit. Paradoxně by se tak mohly zvýšit ekologické škody spojené právě s [pěstováním plodin na produkci paliva](https://www.irozhlas.cz/zpravy-domov/repka-babis-ano-evropa-eu-volby-biopaliva-smernice_1905280600_jab).
 
-<h2 id="k2o3">Dvakrát víc fotovoltaiky než chce vláda. Jaké jsou alternativní scénáře?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
+<h2 id="k2o3">Dvakrát víc fotovoltaiky, než chce vláda. Jaké jsou alternativní scénáře?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
 
 Klíčovým kritikem původního plánu byl ovšem „zadavatel“ strategie, Evropská komise.
 
@@ -326,7 +326,7 @@ V říjnu se přidala také Komora obnovitelných zdrojů: [její scénář](htt
 
 Tu na začátku listopadu [vláda schválila](https://oenergetice.cz/emise-co2/nove-moznosti-financovani-oze-od-roku-2021-az-30-miliard-rocne/) a podle ekologů obnovitelným zdrojům příliš nepřeje.
 
-„Původně mělo být skrz modernizační fond, kam jdou peníze z povolenek, na investice do obnovitelných zdrojů k dispozici až padesát miliard korun,“ říká Martin Sedlák. „Ty ale v novém klimatickém plánu a novele zákona seškrtalo na patnáct miliard. To je opět důkaz, že řeči o podpoře rozvoje nových obnovitelných zdrojů jsou ze strany ministerstva jen plané sliby.“
+„Původně mělo být prostřednictvím modernizačního fondu, kam půjdou peníze prodeje z povolenek, na investice do obnovitelných zdrojů k dispozici až padesát miliard korun,“ říká Martin Sedlák. „Jenže v návrhu klimatického plánu byly seškrtané na asi patnáct miliard. To je opět důkaz, že řeči o podpoře rozvoje nových obnovitelných zdrojů jsou ze strany ministerstva jen plané sliby.“
 
 České ministerstvo průmyslu a obchodu evropskému tlaku neodolalo a letos na Martina [svou strategii upravilo](https://www.mpo.cz/cz/energetika/strategicke-a-koncepcni-dokumenty/verejna-konzultace-k-vnitrostatnimu-planu-ceske-republiky-v-oblasti-energetiky-a-klimatu--250509/): unijních 23 procent podílu obnovitelných zdrojů na spotřebě sice odmítlo, navrhlo ale kompromisních 22 procent. Mírně se zvýšilo i využití slunce a větru.
 
@@ -388,7 +388,7 @@ Ze zmíněných 50 miliard na podporu obnovitelných zdrojů – ve skutečnosti
 
 „Unie nám doporučila 23 procent obnovitelných zdrojů. Pro představu, pokud bychom to chtěli naplňovat ve fotovoltaice, jedno procento znamená 3 GW výkonu. To je dost! Dnes máme 2,2 GW. Těch 50 miliard už nejde zvednout, budeme to platit do roku 2030, lidi jsou naštvaní. Pojďme fotovoltaiku zadotovat investičně, s tím nemáme problém, ale ne provozně. Takhle jednou přijdete do styku se státem, dostanete investiční dotaci dvacet nebo třicet procent a pak každý den koukáte, jestli se vám to vrátí za pět, deset nebo patnáct let.“
 
-Martin Sedlák ze Svazu moderní energetiky ministrovi oponuje.
+Martin Sedlák ze Svazu moderní energetiky Nedělovi oponuje.
 
 „Je přece nesmysl, aby fotovoltaika ve strategiích nebyla jenom proto, že bude konkurenceschopná,“ říká. „Jinak tu může vyrůst několik gigawattů solárních parků, ale stát je nebude mít ve svých scénářích produkce elektřiny.“
 
@@ -542,13 +542,13 @@ Legislativní prostředí jako jednu z hlavních překážek rozvoji obnoviteln�
 
 O tom, zda se bude česká energetika soustředit na jádro, dá větší prostor obnovitelným zdrojům, nebo zkusí obě cesty smířit, se zčásti rozhoduje v Německu.
 
-Německá *Energiewende* – proměna energetiky s cílem nahradit klasické elektrárny kombinací obnovitelných zdrojů, plynu, decentralizace a úspor – je dnes motorem rozvoje fotovoltaiky, baterií i chytrých sítí. Země dnes vyrábí z obnovitelných zdrojů 31 procent elektřiny, do roku 2030 chce mít 50 procent a do poloviny století na 80 procent.
+Německá *die Energiewende, n* – proměna energetiky s cílem nahradit klasické elektrárny kombinací obnovitelných zdrojů, plynu, decentralizace a úspor – je dnes motorem rozvoje fotovoltaiky, baterií i chytrých sítí. Země dnes vyrábí z obnovitelných zdrojů 31 procent elektřiny, do roku 2030 chce mít 50 procent a do poloviny století na 80 procent.
 
 Hlavní roli mají v německé budoucnosti hrát větrné elektrárny, o něco slabší slunce a voda, jediným významným neobnovitelným zdrojem má být plyn. To vše při zdvojnásobení spotřeby elektřiny proti dnešku.
 
 <div style="width: 100%; height: 800px;" id="5-vyroba"></div>
 
-Zemní plyn není ideální zdroj, emise skleníkových plynů při jeho těžbě, dopravě a spalování [jsou jen přibližně poloviční než u uhlí](https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground). Jeho využití také zvyšuje závislost Evropy na Rusku. Důvod, proč si Němci vybrali právě plynové elektrárny, je mimo jiné ten, že si jejich provoz rozumí s těkavou povahou obnovitelných zdrojů.
+Zemní plyn není ideální zdroj, emise skleníkových plynů při jeho těžbě, dopravě a spalování [jsou jen přibližně poloviční než u uhlí](https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground). Jeho využití také zvyšuje závislost Evropy na Rusku. Důvod, proč si Němci vybrali právě plynové elektrárny, je mimo jiné ten, že si jejich provoz rozumí s nestálou povahou obnovitelných zdrojů.
 
 Instalace obnovitelných zdrojů zatím plynule roste: od roku 2010, kdy Němci energetickou reformu spustili, se podíl energie vyrobené ze slunce, větru a vody, zvedl z nuly na dnešní třetinu.
 
@@ -576,7 +576,7 @@ Německo tedy má – na rozdíl od Česka – obnovitelný zdroj, na který se 
 
 „Offshorové elektrárny fungují jako zdroje v základním zatížení. Proto má sever země energie dost. Problém má ale průmyslový jih, chybí postavit vedení,“ vysvětluje německé specifikum René Neděla.
 
-Další variantou pro vykrytí mezer ve výrobě elektřiny je nákup od sousedů. Pro Němce je klíčová jaderná velmoc Francie: vyrábí neustále, takže doplňuje cyklickou fotovoltaiku i těkavý vítr. V následujících letech nicméně Francie [plánuje od jádra ustupovat](https://oenergetice.cz/elektrarny-evropa/macron-francie-podil-vyroby-elektriny-z-jadra-snizi-na-50-az-v-roce-2035/), sama připravuje příklon ke slunci a větru.
+Další variantou pro vykrytí mezer ve výrobě elektřiny je nákup od sousedů. Pro Němce je klíčová jaderná velmoc Francie: vyrábí neustále, takže doplňuje cyklickou fotovoltaiku i „těkavý“ vítr. V následujících letech nicméně Francie [plánuje od jádra ustupovat](https://oenergetice.cz/elektrarny-evropa/macron-francie-podil-vyroby-elektriny-z-jadra-snizi-na-50-az-v-roce-2035/), sama připravuje příklon ke slunci a větru.
 
 Důležité je také propojení s Českem. Celkově sice v posledních letech nakupují víc elektřiny Češi z Německa, ale v době, kdy obnovitelné zdroje nevyrábí, využívají naopak Němci českou energii. Plánované odstavení českého – a podobně polského – uhlí a později jádra může Němcům přechod k obnovitelné energetice zkomplikovat.
 
@@ -780,7 +780,7 @@ Třetí cesta, která je součástí jak jaderného, tak fotovoltaického scén�
 
 V domácnostech podobné změny dějí už dnes. Instalace solárních panelů umožňuje vizualizovat okamžitou spotřebu elektřiny, která zase upozorní, jak energeticky náročné jsou některé činnosti.
 
-„Brzy budete mít smart spotřebiče, kde se třeba ráno nachystáte pračku a praní se spustí, až začne svítit slunce,“ tvrdí Vaněk. „Už se to vlastně děje teď, máme všechno nachystané, je to jenom otázka peněz, kdy masová výroba zlevní tyto spotřebiče. Takže ti, co mají na střeše fotovoltaiku, už si můžou chystat řízené zásuvky a energy management počítač, který bude predikovat počasí.“.
+„Brzy budete mít smart spotřebiče, kde třeba ráno nachystáte pračku a praní se spustí, až začne svítit slunce,“ tvrdí Vaněk. „Už se to vlastně děje teď, máme všechno nachystané, je to jenom otázka peněz, kdy masová výroba zlevní tyto spotřebiče. Takže ti, co mají na střeše fotovoltaiku, už si můžou chystat řízené zásuvky a energy management počítač, který bude predikovat počasí.“
 
 „Stejným směrem míří průmysl. Když bude mít jeden majitel elektrárnu i výrobu, naplánuje to tak, aby běžely zároveň. V tuhle chvíli to není nutné, protože cena elektřiny je nízká, ale jakmile půjde nahoru, začne se to dít,“ předvídá Vaněk.
 
@@ -804,4 +804,4 @@ Bez plánu ale země být nemůže. Tím méně Evropská unie, která se snaž�
 
 Plán na jádro – ať už je, nebo není realistický – by ale neměl být na překážku růstu obnovitelných zdrojů. Češi k nim sice nemají tak vřelý vztah jako většina Evropy, ale je to jeden z mála nástrojů ke snížení emisí skleníkových plynů na globální úrovni.
 
-„Hlavní je změnit myšlení,“ říká Jiří Vaněk z VUT. „Je obrovský rozdíl, když se bavím s lidmi z Česka, Slovenska a Rakouska. Česko a Slovensko Jsou podobné, ale i oni jsou víc otevření zeleným řešením, kdežto u nás je to tabu, sprosté slovo. Možná jsou ekologická varování strašení, ale na druhou stranu: proč jednou neudělat něco správně?“
+„Hlavní je změnit myšlení,“ říká Jiří Vaněk z VUT. „Je obrovský rozdíl, když se bavím s lidmi z Česka, Slovenska a Rakouska. Česko a Slovensko jsou podobné, ale i oni jsou víc otevření zeleným řešením, kdežto u nás je to tabu, sprosté slovo. Možná jsou ekologická varování strašení, ale na druhou stranu: proč jednou neudělat něco správně?“
