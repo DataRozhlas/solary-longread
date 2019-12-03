@@ -158,7 +158,8 @@ V posledních letech ovšem začíná velké instalace doplňovat nový trend: p
 Kde solární parky stojí a kdy se stavěly, ukazuje mapa instalací podle [seznamu licencí Energetického regulačního úřadu](http://licence.eru.cz/), aktuálního k letošnímu listopadu.
 
 <wide>
-<div class="flourish-embed" data-src="visualisation/1033932"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+<div id="mapa-provozoven"></div>
+<script src="https://public.flourish.studio/resources/embed.js"></script>
 </wide>
 
 Vypátrat, kdo na dotacích nejvíce vydělal, už tak přímočaré není. [Jak upozorňuje týdeník Euro](https://www.euro.cz/byznys/kde-mizeji-solarni-miliardy-majitelum-elektraren-zustane-jen-tretina-z-vyplacene-podpory-1467893), u samotných provozovatelů elektráren končí jen asi třetina zisků. Značnou část fotovoltaických dotací spolknou banky nebo stát.

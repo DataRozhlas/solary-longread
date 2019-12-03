@@ -1,6 +1,7 @@
 ﻿import "./byeie"; // loučíme se s IE
 import { reaktory } from "./reaktory"
 import { makeMap } from "./map"
+import "./flourish";
 
 makeMap(reaktory)
 
