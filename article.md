@@ -31,8 +31,8 @@ Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z
 ## Obsah:
 
 <ol id="obsah">
-	<li class="seznam-kapitol">
-		<p class="kapitola-nazev"><a href="#k1">2009, 2010: rána na solar</a></p>
+	<li class="kapitola">
+		<a href="#k1">2009, 2010: rána na solar</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k1o1">Solární boom: proč Češi investovali do čisté energie?</a></li>
 			<li class="otazka"><a href="#k1o2">Miliardy na podporu. Kdo dostal do zákona vysoké výkupní ceny?</a></li>
@@ -40,29 +40,39 @@ Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z
 			<li class="otazka"><a href="#k1o4">Podpora 29 miliard ročně: kdo je platí a jak dlouho ještě bude?</a></li>
 			<li class="otazka"><a href="#k1o5">Zahořkli Češi vůči obnovitelným zdrojům?</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k2">Řekněte ne a začněte vyjednávat</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k2">Řekněte ne a začněte vyjednávat</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k2o1">Tři procenta ze slunce: kolik obnovitelné zdroje vyrobí dnes a jaký mají potenciál?</a></li>
 			<li class="otazka"><a href="#k2o2">Víc řepky, žádnou fotovoltaiku? Co Češi slibují unii pro 2030</a></li>
 			<li class="otazka"><a href="#k2o3">Dvakrát víc fotovoltaiky, než chce vláda. Jaké jsou alternativní scénáře?</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k3">Klimatická strategie: „Ať fotovoltaika roste, ale nenapíšeme to tam“</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k3">Klimatická strategie: „Ať fotovoltaika roste, ale nenapíšeme to tam“</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k3o1">Rozhovor na ministerstvu průmyslu. Proč se solárními parky nepočítají?</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k4">Věštění ze strategií</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k4">Věštění ze strategií</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k4o1">„Podle plánů z roku 2003 už nemá být čím svítit.“ Jak vzdálené jsou strategie od reality?</a></li>
 			<li class="otazka"><a href="#k4o2">ČEPS: sledujeme plány sousedů, od roku 2030 budeme závislí na dovozu</a></li>
 			<li class="otazka"><a href="#k4o3">Klíčová nejistota: dokážeme postavit jádro?</a></li>
 			<li class="otazka"><a href="#k4o4">Stát podpoří čistou energii – kromě slunce. Jak se brání před trhem?</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k5"><i>Energiewende</i>: když nejste první, jste druzí</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k5"><i>Energiewende</i>: když nejste první, jste druzí</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k5o1">Nejdražší elektřina v unii. Kolik Němci zaplatí za obnovitelnou energetiku?</a></li>
 			<li class="otazka"><a href="#k5o2">Větrníky na Baltu, francouzské jádro. V čem se německý potenciál liší od českého?</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k6">Když nesvítí a nefouká</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k6">Když nesvítí a nefouká</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k6o1">Bez baterií to nepůjde. Po fotovoltaice se výzkum zaměřuje na akumulaci</a></li>
 			<li class="otazka"><a href="#k6o2">Vodík, setrvačníky, stlačený vzduch. Jak vzdálené jsou technologie sezonní akumulace?</a></li>
@@ -71,7 +81,9 @@ Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z
 			<li class="otazka"><a href="#k6o5">Z Baltu do Bavorska teče proud přes Česko. Je to problém?</a></li>
 			<li class="otazka"><a href="#k6o5">Německá energetická revoluce: „Fyzikálně to nesedí, ale zvládnout by to mohli“</a></li>
 		</ol>
-		<p class="kapitola-nazev"><a href="#k7">Rozhřešení</a></p>
+	</li>
+	<li class="kapitola">
+		<a href="#k7">Rozhřešení</a>
 		<ol class="seznam-otazek">
 			<li class="otazka"><a href="#k7o1">Německým sousedem: kopírovat, nebo doplňovat?</a></li>
 			<li class="otazka"><a href="#k7o2">Stavíme jádro pro svět za dvacet let. Bude dávat ekonomický smysl?</a></li>
@@ -145,7 +157,9 @@ V posledních letech ovšem začíná velké instalace doplňovat nový trend: p
 
 Kde solární parky stojí, ukazuje mapa instalací podle [seznamu licencí Energetického regulačního úřadu](http://licence.eru.cz/), aktuálního k letošnímu listopadu.
 
-<div id="MAPA: dodnes nainstalovaná fotovoltaika"></div>
+<wide>
+<div class="flourish-embed" data-src="visualisation/1033932"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+</wide>
 
 Vypátrat, kdo na dotacích nejvíce vydělal, už tak přímočaré není. [Jak upozorňuje týdeník Euro](https://www.euro.cz/byznys/kde-mizeji-solarni-miliardy-majitelum-elektraren-zustane-jen-tretina-z-vyplacene-podpory-1467893), u samotných provozovatelů elektráren končí jen asi třetina zisků. Značnou část fotovoltaických dotací spolknou banky nebo stát.
 

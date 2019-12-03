@@ -255,7 +255,7 @@
 
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/responsive/2.2.3/css/responsive.dataTables.min.css">
-<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css"><style>ol.snowfall,ul.snowfall{list-style:initial!important;font-size:medium!important;line-height:1.5!important}ol.snowfall>li,ul.snowfall>li{background:0 0!important;margin:0!important;padding:0!important}hr.snowfall{max-width:none!important}.seznam-otazek{list-style-type:circle}.otazka::before{display:none}.zpatky a{font-size:80%;vertical-align:.2em;text-decoration:none;white-space:pre}.kapitola-nazev{padding-top:10px;font-size:20px}h1::before{display:block;content:" ";margin-top:-50px;height:50px;visibility:hidden;pointer-events:none}h2::before{display:block;content:" ";margin-top:-40px;height:40px;visibility:hidden;pointer-events:none}#obsah::before{display:block;content:" ";margin-top:-40px;height:40px;visibility:hidden;pointer-events:none}#sel{text-align:center;padding:5px}#selector{max-width:100%;margin:auto}#map{height:400px}#ttip{text-align:center;margin-top:5px;width:100%;min-height:50px}</style>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet@1.3.0/dist/leaflet.css"><style>ol.snowfall,ul.snowfall{list-style:initial!important;font-size:medium!important;line-height:1.5!important}ol.snowfall>li,ul.snowfall>li{background:0 0!important;margin:0!important;padding:0!important}hr.snowfall{max-width:none!important}.seznam-otazek{list-style-type:circle;list-style-position:inside;padding-top:5px}.otazka::before{display:none}.zpatky a{font-size:80%;vertical-align:.2em;text-decoration:none;white-space:pre}.kapitola{padding-top:10px;font-size:20px}.kapitola::before{position:relative;font-weight:400}h1::before{display:block;content:" ";margin-top:-50px;height:50px;visibility:hidden;pointer-events:none}h2::before{display:block;content:" ";margin-top:-40px;height:40px;visibility:hidden;pointer-events:none}#obsah::before{display:block;content:" ";margin-top:-40px;height:40px;visibility:hidden;pointer-events:none}#sel{text-align:center;padding:5px}#selector{max-width:100%;margin:auto}#map{height:400px}#ttip{text-align:center;margin-top:5px;width:100%;min-height:50px}</style>
 
 	<div class="row-main row-main--narrow">
 		<p class="text-bold text-lg">
@@ -273,8 +273,8 @@
 <p>Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z ní se dnes vyrábí jen zlomek české elektřiny, přitom má podle většiny zpovídaných zdaleka největší potenciál. Právě její minulost je také jednou z nejsilnějších překážek rozvoji obnovitelných zdrojů. Proto začínáme u ní.</p>
 <h2 id="obsah">Obsah:</h2>
 <ol id="obsah">
-    <li class="seznam-kapitol">
-        <p class="kapitola-nazev"><a href="#k1">2009, 2010: rána na solar</a></p>
+    <li class="kapitola">
+        <a href="#k1">2009, 2010: rána na solar</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k1o1">Solární boom: proč Češi investovali do čisté energie?</a></li>
             <li class="otazka"><a href="#k1o2">Miliardy na podporu. Kdo dostal do zákona vysoké výkupní ceny?</a></li>
@@ -282,29 +282,39 @@
             <li class="otazka"><a href="#k1o4">Podpora 29 miliard ročně: kdo je platí a jak dlouho ještě bude?</a></li>
             <li class="otazka"><a href="#k1o5">Zahořkli Češi vůči obnovitelným zdrojům?</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k2">Řekněte ne a začněte vyjednávat</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k2">Řekněte ne a začněte vyjednávat</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k2o1">Tři procenta ze slunce: kolik obnovitelné zdroje vyrobí dnes a jaký mají potenciál?</a></li>
             <li class="otazka"><a href="#k2o2">Víc řepky, žádnou fotovoltaiku? Co Češi slibují unii pro 2030</a></li>
             <li class="otazka"><a href="#k2o3">Dvakrát víc fotovoltaiky, než chce vláda. Jaké jsou alternativní scénáře?</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k3">Klimatická strategie: „Ať fotovoltaika roste, ale nenapíšeme to tam“</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k3">Klimatická strategie: „Ať fotovoltaika roste, ale nenapíšeme to tam“</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k3o1">Rozhovor na ministerstvu průmyslu. Proč se solárními parky nepočítají?</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k4">Věštění ze strategií</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k4">Věštění ze strategií</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k4o1">„Podle plánů z roku 2003 už nemá být čím svítit.“ Jak vzdálené jsou strategie od reality?</a></li>
             <li class="otazka"><a href="#k4o2">ČEPS: sledujeme plány sousedů, od roku 2030 budeme závislí na dovozu</a></li>
             <li class="otazka"><a href="#k4o3">Klíčová nejistota: dokážeme postavit jádro?</a></li>
             <li class="otazka"><a href="#k4o4">Stát podpoří čistou energii – kromě slunce. Jak se brání před trhem?</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k5"><i>Energiewende</i>: když nejste první, jste druzí</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k5"><i>Energiewende</i>: když nejste první, jste druzí</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k5o1">Nejdražší elektřina v unii. Kolik Němci zaplatí za obnovitelnou energetiku?</a></li>
             <li class="otazka"><a href="#k5o2">Větrníky na Baltu, francouzské jádro. V čem se německý potenciál liší od českého?</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k6">Když nesvítí a nefouká</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k6">Když nesvítí a nefouká</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k6o1">Bez baterií to nepůjde. Po fotovoltaice se výzkum zaměřuje na akumulaci</a></li>
             <li class="otazka"><a href="#k6o2">Vodík, setrvačníky, stlačený vzduch. Jak vzdálené jsou technologie sezonní akumulace?</a></li>
@@ -313,7 +323,9 @@
             <li class="otazka"><a href="#k6o5">Z Baltu do Bavorska teče proud přes Česko. Je to problém?</a></li>
             <li class="otazka"><a href="#k6o5">Německá energetická revoluce: „Fyzikálně to nesedí, ale zvládnout by to mohli“</a></li>
         </ol>
-        <p class="kapitola-nazev"><a href="#k7">Rozhřešení</a></p>
+    </li>
+    <li class="kapitola">
+        <a href="#k7">Rozhřešení</a>
         <ol class="seznam-otazek">
             <li class="otazka"><a href="#k7o1">Německým sousedem: kopírovat, nebo doplňovat?</a></li>
             <li class="otazka"><a href="#k7o2">Stavíme jádro pro svět za dvacet let. Bude dávat ekonomický smysl?</a></li>
@@ -370,7 +382,9 @@
 <div id="GRAF: instalovaný výkon, parky × střechaři"></div>
 
 <p>Kde solární parky stojí, ukazuje mapa instalací podle <a href="http://licence.eru.cz/">seznamu licencí Energetického regulačního úřadu</a>, aktuálního k letošnímu listopadu.</p>
-<div id="MAPA: dodnes nainstalovaná fotovoltaika"></div>
+</div><div class="row-main row-main--article">
+<div class="flourish-embed" data-src="visualisation/1033932"></div><script src="https://public.flourish.studio/resources/embed.js"></script>
+</div><div class="row-main row-main--narrow">
 
 <p>Vypátrat, kdo na dotacích nejvíce vydělal, už tak přímočaré není. <a href="https://www.euro.cz/byznys/kde-mizeji-solarni-miliardy-majitelum-elektraren-zustane-jen-tretina-z-vyplacene-podpory-1467893">Jak upozorňuje týdeník Euro</a>, u samotných provozovatelů elektráren končí jen asi třetina zisků. Značnou část fotovoltaických dotací spolknou banky nebo stát.</p>
 <p>Ten zavedl ještě v roce 2010 <a href="https://www.fbadvokati.cz/cs/clanky/232-solarni-dan-pokracuje">26procentní solární daň ze zisku</a>, aby investice do fotovoltaiky zkrotil. Podnikatelé dodatečnou daň napadli u Ústavního soudu, kde neuspěli, část z nich později žalovala český stát v mezinárodních arbitrážích; většinou opět neúspěšně.</p>

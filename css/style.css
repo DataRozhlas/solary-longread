@@ -1,9 +1,7 @@
-.seznam-kapitol {
-    list-style:
-}
-
 .seznam-otazek {
     list-style-type: circle;
+    list-style-position: inside;
+    padding-top: 5px;
 }
 
 .otazka::before {
@@ -17,9 +15,15 @@
     white-space: pre;
 }
 
-.kapitola-nazev {
+
+.kapitola {
     padding-top: 10px;
     font-size: 20px;
+}
+
+.kapitola::before {
+    position: relative;
+    font-weight: normal;
 }
 
 h1::before {
