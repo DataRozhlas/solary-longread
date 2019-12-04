@@ -122,6 +122,116 @@ Highcharts.chart('7-globalemise', {
     }]
 });
 
+var _12_data = [
+  ["rok2016","rok2020","mpo1","ek","koze","sme","mpo2"],
+  [13.6,14,14.2,23.31,28.23,null,16.9],
+  [6.4,8.8,14,14,14,null,14],
+  [19.9,22,30,30,30,null,30.7],
+  [14.9,16.3,20.8,23,24.38,23.8,22]
+]
+
+_12_data.shift();
+
+var _12_oblasti = ["elektřina", "doprava", "vytápění a chlazení", "celá energetika"];
+
+var _12_2016 = _12_data.map(function(value,index) {
+    return value[0];
+});
+
+var _12_2020 = _12_data.map(function(value,index) {
+    return value[1];
+});
+
+var _12_mpo1 = _12_data.map(function(value,index) {
+    return value[2];
+});
+
+var _12_ek = _12_data.map(function(value,index) {
+    return value[3];
+});
+
+var _12_koze = _12_data.map(function(value,index) {
+    return value[4];
+});
+
+var _12_sme = _12_data.map(function(value,index) {
+    return value[5];
+});
+
+var _12_mpo2 = _12_data.map(function(value,index) {
+    return value[6];
+});
+
+Highcharts.chart('12-srovnani', {
+    chart: {
+        type: 'column'
+    },
+
+    title: {
+        text: 'Podíl obnovitelných zdrojů podle jednotlivých strategií'
+    },
+
+    subtitle: {
+        text: ''
+    },
+
+    xAxis: {
+        categories: _12_oblasti
+    },
+
+    yAxis: {
+        title: {
+            text: 'podíl obnovitelných zdrojů'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' %';
+            }
+        }
+    },
+
+    tooltip: {
+        valueSuffix: ' %',
+        shared: true
+    },
+
+    exporting: {
+        enabled: false
+    },
+
+    credits: {
+        href: '',
+        text: 'Zdroj: dokumenty'
+    },
+
+    series: [{
+        name: 'stav 2016',
+        data: _12_2016,
+        color: colors[0]
+    }, {
+        name: 'MPO, původní plán',
+        data: _12_mpo1,
+        color: colors[1]
+    }, {
+        name: 'EK',
+        data: _12_ek,
+        color: colors[2]
+    }, {
+        name: 'KOZE',
+        data: _12_koze,
+        color: colors[3]
+    }, {
+        name: 'SME',
+        data: _12_sme,
+        color: colors[4]
+    }, {
+        name: 'MPO, nový návrh',
+        data: _12_mpo2,
+        color: colors[5]
+    }]
+});
+
+
 var _6_emise_data = [
 {"y":1263,"proc":100.0},
 {"y":1216,"proc":96.3},
@@ -1539,7 +1649,7 @@ var _5_cena_data_ind = [
 
 Highcharts.chart('5-cena', {
     chart: {
-        type: 'column'
+        type: 'bar'
     },
 
     title: {
@@ -2602,3 +2712,454 @@ Highcharts.chart('1-naklady', {
         color: colors[7]
     }]
 });
+
+var _8_data = [
+  ["data","mw"],
+  ["2007-01",137.2],
+  ["2007-02",137.2],
+  ["2007-03",137.4],
+  ["2007-04",137.5],
+  ["2007-05",137.7],
+  ["2007-06",137.8],
+  ["2007-07",139.1],
+  ["2007-08",140.2],
+  ["2007-09",140.6],
+  ["2007-10",141.3],
+  ["2007-11",141.5],
+  ["2007-12",141.7],
+  ["2008-01",153.1],
+  ["2008-02",154.0],
+  ["2008-03",154.3],
+  ["2008-04",155.0],
+  ["2008-05",158.9],
+  ["2008-06",160.5],
+  ["2008-07",163.4],
+  ["2008-08",166.9],
+  ["2008-09",177.9],
+  ["2008-10",179.9],
+  ["2008-11",186.9],
+  ["2008-12",242.1],
+  ["2009-01",242.5],
+  ["2009-02",243.3],
+  ["2009-03",248.0],
+  ["2009-04",248.9],
+  ["2009-05",259.4],
+  ["2009-06",262.8],
+  ["2009-07",276.6],
+  ["2009-08",290.8],
+  ["2009-09",303.5],
+  ["2009-10",340.9],
+  ["2009-11",402.6],
+  ["2009-12",602.1],
+  ["2010-01",622.4],
+  ["2010-02",628.3],
+  ["2010-03",634.2],
+  ["2010-04",649.8],
+  ["2010-05",736.3],
+  ["2010-06",774.7],
+  ["2010-07",811.3],
+  ["2010-08",852.0],
+  ["2010-09",948.9],
+  ["2010-10",1128.7],
+  ["2010-11",1449.0],
+  ["2010-12",1771.7],
+  ["2011-01",1772.5],
+  ["2011-02",1781.2],
+  ["2011-03",1786.5],
+  ["2011-04",1787.0],
+  ["2011-05",1787.5],
+  ["2011-06",1790.3],
+  ["2011-07",1795.0],
+  ["2011-08",1797.9],
+  ["2011-09",1798.7],
+  ["2011-10",1799.4],
+  ["2011-11",1800.7],
+  ["2011-12",1801.3],
+  ["2012-01",1803.6],
+  ["2012-02",1803.7],
+  ["2012-03",1803.9],
+  ["2012-04",1804.5],
+  ["2012-05",1806.8],
+  ["2012-06",1810.1],
+  ["2012-07",1816.8],
+  ["2012-08",1853.7],
+  ["2012-09",1861.4],
+  ["2012-10",1872.1],
+  ["2012-11",1888.1],
+  ["2012-12",1928.7],
+  ["2013-01",1930.8],
+  ["2013-02",1931.3],
+  ["2013-03",1933.6],
+  ["2013-04",1935.2],
+  ["2013-05",1939.7],
+  ["2013-06",1958.2],
+  ["2013-07",1959.0],
+  ["2013-08",1961.3],
+  ["2013-09",1964.0],
+  ["2013-10",1965.9],
+  ["2013-11",1971.6],
+  ["2013-12",1983.3],
+  ["2014-01",1984.4],
+  ["2014-02",1984.9],
+  ["2014-03",1985.3],
+  ["2014-04",1985.6],
+  ["2014-05",1986.4],
+  ["2014-06",1986.8],
+  ["2014-07",1988.8],
+  ["2014-08",1989.5],
+  ["2014-09",1990.2],
+  ["2014-10",1990.5],
+  ["2014-11",1991.2],
+  ["2014-12",1993.0],
+  ["2015-01",1995.2],
+  ["2015-02",1996.2],
+  ["2015-03",1996.5],
+  ["2015-04",1999.0],
+  ["2015-05",1999.4],
+  ["2015-06",1999.5],
+  ["2015-07",1999.8],
+  ["2015-08",2000.0],
+  ["2015-09",2009.4],
+  ["2015-10",2009.6],
+  ["2015-11",2011.0],
+  ["2015-12",2012.4],
+  ["2016-01",2012.8],
+  ["2016-02",2013.0],
+  ["2016-03",2013.2],
+  ["2016-04",2013.8],
+  ["2016-05",2016.1],
+  ["2016-06",2016.5],
+  ["2016-07",2018.2],
+  ["2016-08",2020.6],
+  ["2016-09",2021.1],
+  ["2016-10",2022.3],
+  ["2016-11",2022.6],
+  ["2016-12",2022.8],
+  ["2017-01",2028.1],
+  ["2017-02",2028.9],
+  ["2017-03",2032.3],
+  ["2017-04",2032.6],
+  ["2017-05",2038.9],
+  ["2017-06",2039.8],
+  ["2017-07",2040.2],
+  ["2017-08",2044.7],
+  ["2017-09",2045.0],
+  ["2017-10",2045.1],
+  ["2017-11",2047.5],
+  ["2017-12",2047.7],
+  ["2018-01",2057.0],
+  ["2018-02",2057.2],
+  ["2018-03",2057.8],
+  ["2018-04",2058.1],
+  ["2018-05",2058.6],
+  ["2018-06",2059.0],
+  ["2018-07",2060.9],
+  ["2018-08",2068.4],
+  ["2018-09",2072.4],
+  ["2018-10",2072.9],
+  ["2018-11",2073.3],
+  ["2018-12",2074.0],
+  ["2019-01",2090.6],
+  ["2019-02",2103.1],
+  ["2019-03",2116.6],
+  ["2019-04",2117.2],
+  ["2019-05",2119.2],
+  ["2019-06",2121.7],
+  ["2019-07",2123.7],
+  ["2019-08",2127.9],
+  ["2019-09",2135.3],
+  ["2019-10",2137.3]
+]
+
+_8_data.shift();
+
+var _8_mesice = _8_data.map(function(value,index) {
+    return value[0];
+});
+
+var _8_kapacita = _8_data.map(function(value,index) {
+    return value[1];
+});
+
+Highcharts.chart('8-kuminst', {
+    chart: {
+        type: 'line'
+    },
+
+    title: {
+        text: 'Kumulativní výkon fotovoltaiky v Česku'
+    },
+
+    subtitle: {
+        text: ''
+    },
+
+    xAxis: {
+        categories: _8_mesice
+    },
+
+    yAxis: {
+        title: {
+            text: 'celkový solární výkon'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' MWp';
+            }
+        }
+    },
+
+    tooltip: {
+        valueSuffix: ' MWp'
+    },
+
+    exporting: {
+        enabled: false
+    },
+
+    legend: {
+        enabled: false
+    },
+
+    credits: {
+        href: 'http://licence.eru.cz/',
+        text: 'Zdroj: ERÚ'
+    },
+
+    series: [{
+        name: 'celkový solární výkon',
+        data: _8_kapacita,
+        color: colors[1]
+    }]
+});
+
+var _9_data = [
+  ["rok","bez","s"],
+  [2016,540.7,285.1],
+  [2017,1861.7,1157.1],
+  [2018,2744.7,4212.2]
+]
+
+_9_data.shift();
+
+var _9_roky = _9_data.map(function(value,index) {
+    return value[0];
+});
+
+var _9_bez = _9_data.map(function(value,index) {
+    return value[1];
+});
+
+var _9_aku = _9_data.map(function(value,index) {
+    return value[2];
+});
+
+Highcharts.chart('9-strechy', {
+    chart: {
+        type: 'column'
+    },
+
+    title: {
+        text: 'Výkon fotovoltaiky v domácnostech'
+    },
+
+    subtitle: {
+        text: 'Nová zelená úsporám, proplacené dotace'
+    },
+
+    xAxis: {
+        categories: _9_roky
+    },
+
+    yAxis: {
+        title: {
+            text: 'nainstalovaný výkon v tomto roce'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' kWp';
+            }
+        }
+    },
+
+    tooltip: {
+        valueSuffix: ' kWp',
+        shared: true
+    },
+
+    exporting: {
+        enabled: false
+    },
+
+    legend: {
+        enabled: false
+    },
+
+    credits: {
+        href: '',
+        text: 'Zdroj: SFŽP'
+    },
+
+    series: [{
+        name: 'bez akumulace',
+        data: _9_bez,
+        color: colors[1]
+    }, {
+        name: 's bateriemi',
+        data: _9_aku,
+        color: colors[4]
+    }]
+});
+
+var _10_zeme = ["Belgie","Bulharsko","Česko","Dánsko","Německo","Estonsko","Irsko","Řecko","Španělsko","Francie","Itálie","Kypr","Lotyšsko","Litva","Lucembursko","Maďarsko","Malta","Nizozemsko","Rakousko","Polsko","Portugalsko","Rumunsko","Slovinsko","Slovensko","Finsko","Švédsko","Spojené království"]
+
+var _10_slib = [-15,20,9,-20,-14,11,-20,-4,-10,-14,-13,-5,17,15,-20,10,5,-16,-16,14,1,19,4,13,-16,-17,-16];
+
+var _10_skut = [{"y":-21.1,"color":"#008836"},
+{"y":-2.3,"color":"#008836"},
+{"y":-18.0,"color":"#008836"},
+{"y":-33.3,"color":"#008836"},
+{"y":-8.0,"color":"#EA614A"},
+{"y":10.4,"color":"#008836"},
+{"y":-19.6,"color":"#EA614A"},
+{"y":-34.5,"color":"#008836"},
+{"y":-24.6,"color":"#008836"},
+{"y":-18.8,"color":"#008836"},
+{"y":-27.9,"color":"#008836"},
+{"y":-7.2,"color":"#008836"},
+{"y":-10.3,"color":"#008836"},
+{"y":-13.1,"color":"#008836"},
+{"y":-24.0,"color":"#008836"},
+{"y":-17.5,"color":"#008836"},
+{"y":-37.9,"color":"#008836"},
+{"y":-7.4,"color":"#EA614A"},
+{"y":-16.2,"color":"#008836"},
+{"y":3.3,"color":"#008836"},
+{"y":-19.9,"color":"#008836"},
+{"y":-26.3,"color":"#008836"},
+{"y":-15.3,"color":"#008836"},
+{"y":-20.4,"color":"#008836"},
+{"y":-23.6,"color":"#008836"},
+{"y":-23.7,"color":"#008836"},
+{"y":-32.3,"color":"#008836"}]
+
+Highcharts.chart('10-emise', {
+    chart: {
+        type: 'bar'
+    },
+
+    title: {
+        text: 'Emise skleníkových plynů zemí EU'
+    },
+
+    subtitle: {
+        text: 'požadavek pro 2020 × skutečnost 2017'
+    },
+
+    xAxis: {
+        categories: _10_zeme
+    },
+
+    yAxis: {
+        title: {
+            text: 'změna emisí proti roku 2005'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' %';
+            }
+        }
+    },
+
+    tooltip: {
+        valueSuffix: ' %',
+        shared: true
+    },
+
+    exporting: {
+        enabled: false
+    },
+
+    credits: {
+        href: 'https://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-089165_QID_-26A2E570_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;AIRPOL,L,Z,1;SRC_CRF,L,Z,2;INDICATORS,C,Z,3;&zSelection=DS-089165AIRPOL,GHG;DS-089165SRC_CRF,CRF1-6XMEMO;DS-089165INDICATORS,OBS_FLAG;DS-089165UNIT,THS_T;&rankName1=UNIT_1_2_-1_2&rankName2=SRC-CRF_1_2_-1_2&rankName3=AIRPOL_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=TIME_1_0_0_0&rankName6=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23',
+        text: 'Zdroj: Eurostat'
+    },
+
+    series: [{
+        name: 'požadavek EU (pro 2020)',
+        data: _10_slib,
+        color: colors[2]
+    }, {
+        name: 'skutečnost (rok 2017)',
+        data: _10_skut,
+        color: colors[3]
+    }]
+});
+
+var _11_roky = [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018];
+
+var _11_import = [2.4,2.6,5.2,4.1,2.8,8.3,6.9,9.5,10.4,10.5,11.1,14.1,10.3,10.9,11.2,16.1,13.4,14.6,11.4];
+
+var _11_export = [12.4,12.2,16.6,19.7,18.5,21,19.5,25.6,21.9,24.2,26,31.1,27.4,27.7,27.8,28.7,24.4,27.9,25.1];
+
+var _11_saldo = [10,9.6,11.4,15.6,15.7,12.7,12.6,16.1,11.5,13.7,14.9,17,17.1,16.8,16.6,12.6,11,13.3,13.7];
+
+Highcharts.chart('11-export', {
+    chart: {
+        type: 'column'
+    },
+
+    title: {
+        text: 'Import vs. export elektřiny v ČR'
+    },
+
+    subtitle: {
+        text: ''
+    },
+
+    xAxis: {
+        categories: _11_roky
+    },
+
+    yAxis: {
+        title: {
+            text: 'import/export'
+        },
+        labels: {
+            formatter: function () {
+                return this.value + ' TWh';
+            }
+        }
+    },
+
+    tooltip: {
+        valueSuffix: ' TWh',
+        shared: true
+    },
+
+    exporting: {
+        enabled: false
+    },
+
+    credits: {
+        href: 'https://www.eru.cz/zpravy-o-provozu-elektrizacni-soustavy',
+        text: 'Zdroj: ERÚ'
+    },
+
+    series: [{
+        name: 'import',
+        data: _11_import,
+        color: colors[0]
+    }, {
+        name: 'export',
+        data: _11_export,
+        color: colors[3]
+    }, {
+        name: 'saldo',
+        data: _11_saldo,
+        color: '#333',
+        type: 'spline'
+    }]
+});
+
+

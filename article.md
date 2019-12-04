@@ -1,4 +1,4 @@
-title: "Dobrodružství fotovoltaiky. Jaké jsou šance obnovitelných zdrojů v říši jádra?"
+title: "Dobrodružství fotovoltaiky. Mohou obnovitelné zdroje nahradit uhlí?"
 perex: "Deset let po divokém solárním boomu se letos znovu otevírají plány na podporu fotovoltaiky. Ostrou diskusi mezi vládou a zastánci obnovitelných zdrojů provází řada otázek: Jaký má být jejich podíl na výrobě elektřiny? Jsou marginální, jak tvrdí česká vláda, nebo budoucí pilíř energetiky, jak věří Němci, Francouzi nebo Švédové? Kde jsou jejich limity? A mají vůbec plány na desítky let dopředu smysl, nebo rozhodne trh a výzkum?"
 published: "4. prosince 2019"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/photovoltaic-491702__190513-091720_anj.jpg?itok=wV0bd9nY
@@ -112,7 +112,7 @@ Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z
 
 V lese pod Bezdězem stojí fotovoltaická elektrárna Ralsko Ra 1. S instalovaným výkonem 56 MW a rozlohou 29 hektarů ([35 až 46 fotbalových hřišť](https://www.irozhlas.cz/komentare/rozloha-vaclavske-namesti-fotbalove-hriste_1711291520_cib) nebo [sedm Václavských náměstí](https://kokes.github.io/vaclavaky/#num=29&mul=0&unit=ha)) jde o největší solární park v Česku. Svou historií navíc potvrzuje stereotyp o „solárních baronech“. Park postavila a následně za pět miliard korun prodala polostátnímu ČEZu firma Amun.Re. Její první spolumajitel Martin Shenar je [obviněn ze sedmdesátimilionového podvodu](https://www.irozhlas.cz/zpravy-domov/martin-shenar-ralsko-solarni-panely-soud_1907310937_jak), druhý je neznámý, ale přes kyperskou firmu [vedou stopy k pražskému podnikateli Ivo Rittigovi](https://liberec.rozhlas.cz/kvuli-obri-solarni-elektrarne-v-ralsku-padlo-obvineni-danovy-unik-pres-70-6018857).
 
-Solární baroni jsou dodnes živou kapitolou českého podnikatelského bestiáře. Za jejich zrodem stojí opatření, které v roce 2005 – pár let před tím, než se začala propadat cena fotovoltaických panelů – zaručilo fixní výkupní cenu solární elektřiny.
+Solární baroni patří dodnes mezi důvody, proč je fotovoltaika částí veřejnosti vnímána negativně. Za jejich zrodem stojí opatření, které v roce 2005 – pár let před tím, než se začala propadat cena fotovoltaických panelů – zaručilo fixní výkupní cenu solární elektřiny.
 
 „Dotace byly spočítané tak, aby zaručovaly patnáctiletou návratnost investice,“ vysvětluje, kde se stala chyba, Jiří Vaněk z Fakulty elektrotechniky a komunikačních technologií VUT. „To je v pořádku, ale bohužel je dál už nikdo neupravoval. Nepočítalo se s tím, že instalace fotovoltaiky takhle zlevní. Najednou byla z patnácti let návratnost podstatně kratší a podnikatelsky to bylo extra výhodné.“
 
@@ -126,7 +126,7 @@ Fakticky se ovšem změna odehrála o několik let dřív, během přístupovýc
 
 „Stát tak vlastně pomocí soukromých investic naplnil svůj závazek rozvoje obnovitelných zdrojů,“ komentuje tehdejší vývoj Martin Sedlák ze Svazu moderní energetiky (SME). „Využil k tomu formu výkupních cen, které byly úspěšně vyzkoušené v řadě dalších zemí, například v Německu.“
 
-Verzi zákona s pozměňovacím návrhem, který zaručil fixní cenu, [prohlasovala](http://www.psp.cz/sqw/hlasy.sqw?G=38530) koalice ČSSD, KDU-ČSL a US-DEU premiéra Stanislava Grosse (ČSSD), podpořili ji také komunisti. Proti byla pouze ODS, také „její“ prezident Václav Klaus dal najevo nesouhlas: zákon demonstrativně [nepodepsal](http://www.psp.cz/sqw/historie.sqw?o=4&t=529). K tomu, aby zákon vrátil parlamentu, by ho ovšem musel vetovat. To neudělal a zákon tak vstoupil v platnost.
+Verzi zákona s pozměňovacím návrhem, který zaručil fixní cenu, [prohlasovala](http://www.psp.cz/sqw/hlasy.sqw?G=38530) koalice ČSSD, KDU-ČSL a US-DEU premiéra Stanislava Grosse (ČSSD), podpořili ji také komunisti. Proti byla pouze ODS, také „její“ prezident Václav Klaus dal najevo nesouhlas: zákon demonstrativně [nepodepsal](http://www.psp.cz/sqw/historie.sqw?o=4&t=529). K tomu, aby zákon vrátil Parlamentu, by ho ovšem musel vetovat. To neudělal a zákon tak vstoupil v platnost.
 
 <right><h3>Elektřina vs. energie</h3><p>Některé dokumenty mluví o podílu obnovitelných zdrojů na spotřebě elektřiny, některé o podílu na spotřebě energie. Pojem energie je obecnější, vedle elektřiny do ní spadá také doprava nebo teplárenství a chlazení. V obou oblastech se dnes podíl obnovitelných zdrojů v Česku pohybuje mezi 13 a 15 procenty. </p></right>
 
@@ -140,7 +140,7 @@ V prvních letech po přijetí zákona nicméně vše fungovalo, jak zákonodár
 
 Výzkumníci německé firmy Fraunhofer každoročně počítají náklady na instalaci solárních panelů. Přestože jde o německé ceny, čísla v následujícím grafu dobře ilustrují celosvětový propad cen fotovoltaiky v letech 2009 a 2010.
 
-<wide><div style="width: 100%; height: 600px;" id="1-cena"></div></wide>
+<wide><div style="width: 100%; height: 500px;" id="1-cena"></div></wide>
 <small>Cena elektřiny zahrnuje všechny daně i poplatky, pro domácnosti se počítá pro roční spotřebu 2500 až 5000 kWh, pro firmy 500 až 2000 MWh.</small>
 
 <h2 id="k1o3">Data ERÚ: jak rychle a kde se stavělo? Kdo na boomu vydělal?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
@@ -151,9 +151,9 @@ Závazek vůči unii tedy Češi splnili. V roce 2010 byl podíl obnovitelných 
 
 Vysoká podpora a řada solárních kauz ale vyvolala „blbou náladu“ a mnohaletou nedůvěru veřejnosti i politiků vůči obnovitelným zdrojům. Od roku 2013 dodnes získalo podle dat ERÚ licenci na provoz méně než 1700 solárních instalací o společném výkonu 154 MW, tedy asi desetině tou dobou nainstalovaného výkonu.
 
-V posledních letech ovšem začíná velké instalace doplňovat nový trend: přibývá malých fotovoltaických instalací do 10 kW, typicky na střechách rodinných domů. Ty licenci nepotřebují a v datech ERÚ je tedy nenajdeme. Strmě rostou, letos zřejmě přibude dvojnásobek střešních instalací než loni. V globálním srovnání jde sice o nízká čísla – za první pololetí přibylo 1241 instalací o výkonu 7,5 MW – ovšem v Česku to signalizuje, že se fotovoltaika odrazila ode dna.
+<div style="width: 100%; height: 400px;" id="9-strechy"></div>
 
-<div id="GRAF: instalovaný výkon, parky × střechaři"></div>
+V posledních letech ovšem začíná velké instalace doplňovat nový trend: přibývá malých fotovoltaických instalací do 10 kW, typicky na střechách rodinných domů. Ty licenci nepotřebují a v datech ERÚ je tedy nenajdeme. Strmě rostou, letos zřejmě přibude dvojnásobek střešních instalací než loni. V globálním srovnání jde sice o nízká čísla – za první pololetí přibylo 1241 instalací o výkonu 7,5 MW – ovšem v Česku to signalizuje, že se fotovoltaika odrazila ode dna.
 
 Kde solární parky stojí a kdy se stavěly, ukazuje mapa instalací podle [seznamu licencí Energetického regulačního úřadu](http://licence.eru.cz/), aktuálního k letošnímu listopadu.
 
@@ -168,7 +168,7 @@ Ten zavedl ještě v roce 2010 [26procentní solární daň ze zisku](https://ww
 
 Ostatně tím, kdo na dotacích aktuálně vydělává nejvíc, je ze sedmdesáti procent státní ČEZ. Podobně jako zmiňované Ralsko skoupil i některé další solární parky, [dnes mu patří čtyři z deseti největších](https://oze.tzb-info.cz/113652-nejvetsi-solarni-parky-vlastni-polostatni-cez-i-neznami-majitele).
 
-<div id="TABULKA: dodnes nainstalovaná fotovoltaika"></div>
+<wide><div style="width: 100%; height: 500px;" id="8-kuminst"></div></wide>
 
 <h2 id="k1o4">Podpora 29 miliard ročně: kdo je platí a jak dlouho ještě bude?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
 
@@ -273,9 +273,9 @@ V balíčku pojmenovaném [Čistá energie pro všechny Evropany](https://ec.eur
 * 32,5% zlepšení energetické účinnosti
 * 15% propojení elektroenergetických soustav
 
-<div id="GRAF: emise co2 podle země"></div>
-
 Také Česka se od minulé zimy Brusel ptá, čím přispěje. Každá země se má na snížení emisí podílet jiným dílem, podle dnešního stavu své energetiky. Do konce roku 2019 mají všechny vlády navrhnout své závazky a plán k jejich dosažení. Pro energetiku jde o zásadní dokument – Evropa se pokouší vytvořit energetickou unii, kdy spolu budou členské země úzce spolupracovat, a bere tedy jejich sliby smrtelně vážně.
+
+<div style="width: 100%; height: 800px;" id="10-emise"></div>
 
 První odpovědí ministerstva průmyslu a obchodu, které má energetiku v gesci, byl [klimaticko-energetický plán](https://www.mpo.cz/cz/energetika/strategicke-a-koncepcni-dokumenty/navrh-vnitrostatniho-planu-v-oblasti-energetiky-a-klimatu-ceske-republiky--242761/), představený loni v prosinci. Podle energetických expertů šlo spíš o draft, výkop diskuse podle pravidla „řekněte ne a začněte vyjednávat“. Přestože ministerstvo později plán pod tlakem Evropské komise upravilo, rok trvající spor o výslednou podobu klimatického plánu vykresluje záměry nejdůležitějších hráčů.
 
@@ -285,7 +285,7 @@ První odpovědí ministerstva průmyslu a obchodu, které má energetiku v gesc
 
 Draft ministerstva počítal, že se podíl obnovitelných zdrojů na elektroenergetice za deset let zvedne z dnešních 13,6 na 14,2 procenta.
 
-„Těch 400 MW fotovoltaiky, které měly podle původního plánu v Česku vyrůst za deset let, postaví v Rakousku nebo Polsku skoro každý rok,“ kritizuje původní plán Štěpán Chalupa z Komory obnovitelných zdrojů energie. „V roce 2030 můžeme spotřebovávat nejméně dvakrát víc čisté elektřiny, než navrhuje ministerstvo“.
+„Těch 400 MW fotovoltaiky, které měly podle původního plánu v Česku vyrůst za deset let, postaví v Rakousku nebo Polsku skoro každý rok,“ kritizuje původní plán Štěpán Chalupa z Komory obnovitelných zdrojů energie. „V roce 2030 můžeme spotřebovávat nejméně dvakrát víc čisté elektřiny, než navrhuje ministerstvo.“
 
 „Je to paradoxní: v okamžiku, kdy fotovoltaika zlevňuje a staví se všude po světě, se Češi rozhodli, že zrovna oni ji nechtějí,“ přidává se i Martin Sedlák ze Svazu moderní energetiky. „Plán byl odtržený od současného vývoje v energetice. To jasně ukázala analýza zpracovaná pro náš svaz u společnosti Deloitte.“
 
@@ -331,9 +331,9 @@ Tu na začátku listopadu [vláda schválila](https://oenergetice.cz/emise-co2/n
 
 České ministerstvo průmyslu a obchodu evropskému tlaku neodolalo a letos na Martina [svou strategii upravilo](https://www.mpo.cz/cz/energetika/strategicke-a-koncepcni-dokumenty/verejna-konzultace-k-vnitrostatnimu-planu-ceske-republiky-v-oblasti-energetiky-a-klimatu--250509/): unijních 23 procent podílu obnovitelných zdrojů na spotřebě sice odmítlo, navrhlo ale kompromisních 22 procent. Mírně se zvýšilo i využití slunce a větru.
 
-Následující tabulka ukazuje srovnání hlavních parametrů obou strategií ministerstva i jejich kritiků.
+Následující graf ukazuje srovnání hlavních parametrů obou strategií ministerstva i jejich kritiků.
 
-<div id="TABULKA: srovnání klíčových ukazatelů strategií KOZE, SME, MPO 1 × MPO 2"></div>
+<wide><div style="width: 100%; height: 600px;" id="12-srovnani"></div></wide>
 
 <h1 id="k3">Klimatická strategie: „Ať&nbsp;fotovoltaika roste, ale nenapíšeme to tam“<span class="zpatky"><a href="#obsah"> ↑</a></span></h1>
 
@@ -356,8 +356,6 @@ Klimaticko-energetický plán Neděla vnímá spíš jako byrokratické závaž�
 Odpověď na kritiku, proč ve strategii nedal prostor solárním parkům, je komplikovanější.
 
 „Díváme se samozřejmě na zkušenosti z okolních zemí, ale primárně na cíle, které nám dává unie,“ vysvětluje Neděla. „Když zhodnotíme současný stav a závazek pro 2020: obnovitelné zdroje mají třináct procent, splněno. Emise CO<sub>2</sub> plníme, není problém. Účinnost, tedy úsporu konečné spotřeby neplníme. Jsme sedmá nejhorší země v unii.“
-
-<div id="GRAF: příspěvek jednotlivých zemí k úspoře CO2"></div>
 
 „Proto jsou veškeré operační projekty zaměřené na účinnost, protože to nikdo nechtěl čerpat,“ pokračuje. „Musíme vykázat, že jsme udělali něco, co má efekt na snížení spotřeby u konečného zákazníka – zateplení budovy, výměna starých spotřebičů, změna technologií třeba ve Škodovce, takže bude spotřebovávat míň.“
 
@@ -433,8 +431,6 @@ Nepočítá se s ním ani dnes, alespoň ne v Česku. Současné tažení obnovi
 
 „Situace je taková, že právě vlivem dekarbonizace nebude dostatek energie,“ pokračuje. „Ukazuje to analýza ČEPS, který se pouze pragmaticky podíval, jak budou fungovat jednotlivé země v Evropě: kde se bude dekarbonizovat, jak se budou rozvíjet obnovitelné zdroje, případně utlumovat jádro, a z toho mu vyšla jednoznačná pozice evropských zemí. Z analýzy vyplývá, že pokud musíme snížit podíl uhlí ze čtyřiceti na pět nebo deset procent, tak v té době *(v roce 2040, pozn. red.)* se staneme z čistého exportéra importérem, pokud ovšem bude kde brát.“
 
-<div id="GRAF: predikce nárůstu spotřeby"></div>
-
 „Musíme si přestat lhát do kapsy. Tikají nám energetické hodiny. Pokud dnes neuděláme zásadní kroky, tak v třicátých letech budeme mít problém,“ tvrdí ministr.
 
 „Mě jenom zajímá, zda takové analýze věřit a proč. Podobná analýza z roku 2003 podhodnotila vývoj energetického trhu, když nepočítala s obnovitelnými zdroji. Co když vy nepočítáte s něčím podobným?“ ptá se novinářka.
@@ -444,8 +440,6 @@ Nepočítá se s ním ani dnes, alespoň ne v Česku. Současné tažení obnovi
 [Prognóza ČEPS](https://www.ceps.cz/cs/tiskove-zpravy/novinka/maf-cz-prinasi-hodnoceni-zdrojove-primerenosti-cr-do-roku-2040), na kterou se ministr odvolává, skutečně podporuje jeho pozici: důrazně varuje, že bez nových velkých zdrojů se česká energetika stane nestabilní.
 
 „Výsledná bilance pro ČR vychází jako výrazně deficitní, od roku 2030 se země postupně začíná stávat závislou na dovozu elektrické energie ze zahraničí,“ upozorňuje ČEPS. „Vlivem odstavování konvenčních zdrojů dojde k zásadní změně bilance oproti současnému stavu, v nízkouhlíkovém scénáři bude ČR k roku 2040 potřebovat import až 30 TWh elektřiny.“
-
-<div id="GRAF: predikce spolehlivosti sítě ČEPS"></div>
 
 Vzhledem k tomu, že podobné scénáře očekávají i okolní země, nemůže se česká energetika příliš spoléhat na import, pokračuje dokument.
 
@@ -489,7 +483,7 @@ Stavba nových jaderných reaktorů v posledních letech v Evropě [zápasí s t
 
 <small>Plánované reaktory jsou v mapě pouze v případě, že je známé datum začátku stavby, i kdyby nebylo definitivní. Očekávaný rok začátku konstrukce je orientační údaj, v řadě zemí jsou plány výstavby v rané fázi nebo se mohou změnit.</small>
 
-„V debatě o potřebě nového jaderného bloku se dnes nejčastěji argumentuje nedostatkem elektřiny, který údajně Česko čeká v důsledku odstavování uhelných elektráren,“ reaguje na premiérův plán Štěpán Chalupa z Komory obnovitelných zdrojů energie. „Časově to však nesedí přinejmenším o deset let: uhelné elektrárny se budou vypínat v příští, nejdéle přespříští dekádě, kdežto nový jaderný blok by mohl být teoreticky dostaven nejdříve kolem roku 2040. Zcela jistě ne během sedmi let, jak minulý týden ohlásil premiér. Pro srovnání, finský reaktor má zatím zpoždění deset let, francouzský osm. Nevím, na čem je založen předpoklad, že dokončit nejsložitější stavbu světa, kterou nedokázala v termínu ani Francie, ani Finsko, dokáže Česko. Země, která nezvládá dostavět dálniční síť.“
+„V debatě o potřebě nového jaderného bloku se dnes nejčastěji argumentuje nedostatkem elektřiny, který údajně Česko čeká v důsledku odstavování uhelných elektráren,“ reaguje na premiérův plán Štěpán Chalupa z Komory obnovitelných zdrojů energie. „Časově to však nesedí přinejmenším o deset let: uhelné elektrárny se budou vypínat v příští, nejdéle přespříští dekádě, kdežto nový jaderný blok by mohl být teoreticky dostaven nejdříve kolem roku 2040. Zcela jistě ne během sedmi let, jak ohlásil premiér. Pro srovnání, finský reaktor má zatím zpoždění deset let, francouzský osm. Nevím, na čem je založen předpoklad, že dokončit nejsložitější stavbu světa, kterou nedokázala v termínu ani Francie, ani Finsko, dokáže Česko. Země, která nezvládá dostavět dálniční síť.“
 
 Pochybnosti jsou také kolem ceny. Generální ředitel ČEZ Daniel Beneš naposledy odhadl cenu na 140 až 160 miliard korun, Petr Lukáč z Hospodářských novin [očekává cenu několikanásobně vyšší](https://archiv.ihned.cz/c1-66195940-vlada-chce-rychle-rozhodnout-o-stavbe-dalsich-jadernych-reaktoru-ale-hlasy-upozornujici-na-prilis-velke-ekonomicke-riziko-sili). Vychází z toho, že obě zmíněné jaderné elektrárny se proti plánu třikrát až čtyřikrát prodražily.
 
@@ -559,7 +553,7 @@ Spíš než na skutečnou cenu reformy kauza ukázala, že vyčíslit ekonomick�
 
 Okamžité náklady pro spotřebitele umějí statistici vyčíslit o něco lépe. Cena elektřiny pro domácnosti je v Německu nejvyšší v Evropské unii, téměř o polovinu dražší, než je unijní průměr; průmysl je dražší o třetinu. Klíčovou částí ceny je v Německu výše příplatku za obnovitelné zdroje.
 
-<wide><div style="width: 100%; height: 500px;" id="5-cena"></div></wide>
+<wide><div style="width: 100%; height: 800px;" id="5-cena"></div></wide>
 
 Česká cena elektřiny přitom dávno není od té německé oddělená. I když se mírně liší, obě se řídí stejnými trendy.
 
@@ -579,13 +573,13 @@ Německo tedy má – na rozdíl od Česka – obnovitelný zdroj, na který se 
 
 Další variantou pro vykrytí mezer ve výrobě elektřiny je nákup od sousedů. Pro Němce je klíčová jaderná velmoc Francie: vyrábí neustále, takže doplňuje cyklickou fotovoltaiku i „těkavý“ vítr. V následujících letech nicméně Francie [plánuje od jádra ustupovat](https://oenergetice.cz/elektrarny-evropa/macron-francie-podil-vyroby-elektriny-z-jadra-snizi-na-50-az-v-roce-2035/), sama připravuje příklon ke slunci a větru.
 
+<wide><div style="width: 100%; height: 500px;" id="11-export"></div></wide>
+
 Důležité je také propojení s Českem. Celkově sice v posledních letech nakupují víc elektřiny Češi z Německa, ale v době, kdy obnovitelné zdroje nevyrábí, využívají naopak Němci českou energii. Plánované odstavení českého – a podobně polského – uhlí a později jádra může Němcům přechod k obnovitelné energetice zkomplikovat.
 
 Následující mapa serveru electricityMap.org ukazuje uhlíkové emise za vyrobenou kilowatthodinu, takzvanou uhlíkovou intenzitu. Při rozkliknutí konkrétní země znázorňuje také aktuální prodeje elektřiny mezi zeměmi.
 
 <wide><iframe src="https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false" style="width:100%; height:600px;" frameborder="0"></iframe></wide>
-
-<div id="GRAF nákupy a prodeje elektřiny v EU. Zdroj: http://www.eru.cz/documents/10540/4580207/Rocni_zprava_provoz_ES_2018.pdf, tab. 16.1"></div>
 
 Dosud se Německu dařilo udržovat vysokou spolehlivost dodávek elektřiny. Celkem třináct minut výpadků v roce 2017 znamená velmi slušnou spolehlivost a je lepší, než Němci očekávali. Kromě offshorových větrníků a francouzské jaderné „záloze“ navíc Německu pomáhají uhelné elektrárny, které v budoucnu plánuje odstavit.
 
@@ -687,8 +681,6 @@ Pro jádro je takový trh zlým snem. V sítích nasycených obnovitelnými zdro
 
 Zdrojem, který výkyvy naopak zvládá perfektně – dokáže nastartovat i přestat vyrábět během sekund – je plyn. Proto také mají v německém energetickém mixu po odstavení jádra i uhlí zůstat spolu s obnovitelnými zdroji právě plynové elektrárny.
 
-<div id="GRAF: pohotovost zdrojů"></div>
-
 <h2 id="k6o5">Z Baltu do Bavorska teče proud přes Česko. Je to problém?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
 
 Nutnou podmínkou pro další stavbu obnovitelných zdrojů jsou také investice do přenosové soustavy. Dnes energie z větrného Baltu do průmyslového Bavorska často putuje „oklikou“ přes Česko.
@@ -726,8 +718,6 @@ Svenja Schulze, německá ministryně životní prostředí, nedávno přiznala,
 „Víme, co dělat do roku 2030, ale k naplnění posledních procent pro dosažení uhlíkové neutrality potřebujeme nové techniky, nové nápady,“ [sdělila novinářům letos v září](https://www.climatechangenews.com/2019/09/24/un-asked-climate-plans-major-economies-failed-answer/).
 
 „Přesný plán nemá nikdo na světě,“ dodala. „Důležité je říct, že chceme toho cíle dosáhnout. Až po cestě objevíme, jak dosáhnout ta poslední procenta.“
-
-<div id="GRAF: německá prognóza"></div>
 
 <h1 id="k7">Rozhřešení<span class="zpatky"><a href="#obsah"> ↑</a></span></h1>
 
