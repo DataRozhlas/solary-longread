@@ -8,6 +8,10 @@
     display: none;
 }
 
+a {
+	word-break: break-all;
+}
+
 .zpatky a {
     font-size: 80%;
     vertical-align: 0.2em;
