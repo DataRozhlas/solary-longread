@@ -8,7 +8,7 @@ libraries: ['https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js', j
 options: []
 ---
 
-V letech 2009 a 2010 zažilo Česko solární boom, kdy v důsledku garantované ceny elektřiny vzrostla roční produkce fotovoltaických elektráren z nuly na 2,2 GWh ročně, ovšem za cenu gigantických nákladů – jen loni dosáhla jejich podpora 29 miliard korun.
+V letech 2009 a 2010 zažilo Česko solární boom, kdy v důsledku garantované ceny elektřiny vzrostla roční produkce fotovoltaických elektráren z nuly na 2,2 TWh ročně, ovšem za cenu gigantických nákladů – jen loni dosáhla jejich podpora 29 miliard korun.
 
 Po deseti letech je téma znovu aktuální.
 
@@ -24,7 +24,7 @@ Debata o budoucnosti obnovitelných zdrojů je o to náročnější, že má má
 
 Také odhady budoucí spotřeby úzce souvisí s technologickým vývojem: předpokládá se, že dojde k masivnímu rozšíření elektromobility a s ním spojeným dvojnásobným nárůstem spotřeby elektřiny v následujících třiceti letech. Takový scénář je ale nepředstavitelný bez rozvoje krátkodobých i sezonních forem akumulace energie. Povedou enormní investice do výzkumu k technologickému skoku? Převládne v budoucnu některá z alternativních – [někdy překvapivě jednoduchých](https://www.youtube.com/watch?v=mmrwdTGZxGk) – technologií akumulace?
 
-Autoři článku podstoupili téměř desítku rozhovorů s klíčovými aktéry – na ministerstvu průmyslu a obchodu, ČEZ, ČEPS, s vědci, energetickými experty i zástupci iniciativ pro rozvoj obnovitelných zdrojů. Výsledkem je text, který naznačuje možnosti obnovitelných zdrojů, motivace těch, kteří o nich budou rozhodovat, a vliv faktorů, o kterých toho dnes moc nevíme.
+Autoři článku podstoupili sedm rozhovorů s klíčovými aktéry – na ministerstvu průmyslu a obchodu, ČEZ, ČEPS, s vědci, energetickými experty i zástupci iniciativ pro rozvoj obnovitelných zdrojů. Výsledkem je text, který naznačuje možnosti obnovitelných zdrojů, motivace těch, kteří o nich budou rozhodovat, a vliv faktorů, o kterých toho dnes moc nevíme.
 
 Mezi obnovitelnými zdroji dostává v textu největší prostor fotovoltaika. Z ní se dnes vyrábí jen zlomek české elektřiny, přitom má podle většiny zpovídaných zdaleka největší potenciál. Právě její minulost je také jednou z nejsilnějších překážek rozvoji obnovitelných zdrojů. Proto začínáme u ní.
 
@@ -405,7 +405,7 @@ Spor o budoucnost obnovitelných zdrojů se ale dost možná bude rozhodovat jin
 
 „Nemá moc cenu lámat si hlavu s dlouhodobými strategiemi, všechno bude nejspíš jinak,“ tvrdí novinář Petr Lukáč.
 
-„Energetika reaguje na okamžité změny. Nerozhodují strategie, ale ekonomika,“ myslí si Lukáč. „Teď je cena elektřiny nějakých 45 eur za kWh, loni byla krátkodobě na 60 eurech. Kdyby cena zůstala na 60 eurech a cena za instalaci fotovoltaiky ještě o něco klesla, vyplatí se bez dotací.“
+„Energetika reaguje na okamžité změny. Nerozhodují strategie, ale ekonomika,“ myslí si Lukáč. „Teď je cena elektřiny nějakých 45 eur za MWh, loni byla krátkodobě na 60 eurech. Kdyby cena zůstala na 60 eurech a cena za instalaci fotovoltaiky ještě o něco klesla, vyplatí se bez dotací.“
 
 Stát se samozřejmě nemusí ekonomickým turbulencím podvolovat. Prosazení příliš zkostnatělých strategií ovšem může znamenat vysoké náklady na podporu dražších zdrojů. Příkladem takové podpory je dnes podle Lukáče jádro.
 
@@ -540,8 +540,6 @@ O tom, zda se bude česká energetika soustředit na jádro, dá větší prosto
 Německá *die Energiewende, n* – proměna energetiky s cílem nahradit klasické elektrárny kombinací obnovitelných zdrojů, plynu, decentralizace a úspor – je dnes motorem rozvoje fotovoltaiky, baterií i chytrých sítí. Země dnes vyrábí z obnovitelných zdrojů 31 procent elektřiny, do roku 2030 chce mít 50 procent a do poloviny století na 80 procent.
 
 Hlavní roli mají v německé budoucnosti hrát větrné elektrárny, o něco slabší slunce a voda, jediným významným neobnovitelným zdrojem má být plyn. To vše při zdvojnásobení spotřeby elektřiny proti dnešku.
-
-<div style="width: 100%; height: 800px;" id="5-vyroba"></div>
 
 Zemní plyn není ideální zdroj, emise skleníkových plynů při jeho těžbě, dopravě a spalování [jsou jen přibližně poloviční než u uhlí](https://www.vox.com/energy-and-environment/2019/5/30/18643819/climate-change-natural-gas-middle-ground). Jeho využití také zvyšuje závislost Evropy na Rusku. Důvod, proč si Němci vybrali právě plynové elektrárny, je mimo jiné ten, že si jejich provoz rozumí s nestálou povahou obnovitelných zdrojů.
 
@@ -760,6 +758,8 @@ Jenže zároveň jsou okolní země ve svých plánech opatrné – co když se 
 „Ve chvíli, kdy jdou dvě třetiny globálních investic do moderní energetiky, tak se tomu ta konvenční musí přizpůsobovat,“ pokračuje. „To se teď děje v ČEZ, ale podobně to má švédský Vattenfall. Nebo Iberdola, největší španělská energetická společnost, ta se rozhodla, že se zbaví konvenčních elektráren a bude stoprocentně obnovitelná.“
 
 „V takovém světě nedává smysl stavět jádro. Ekonomicky se nevyplatí. Jádro je potřeba provozovat celou dobu a vedle obnovitelných zdrojů bude třetinu roku stát. To je debata, která tady ještě nezačala, i v Německu je teprve na začátku. Energetika za deset nebo dvacet let bude vypadat úplně jinak.“
+
+<div style="width: 100%; height: 800px;" id="5-vyroba"></div>
 
 <h2 id="k7o3">Decentralizace a průmysl 4.0: přizpůsobíme se přírodě?<span class="zpatky"><a href="#obsah"> ↑</a></span></h2>
 

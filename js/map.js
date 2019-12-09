@@ -28,9 +28,9 @@ export function makeMap(reaktory) {
             map.removeLayer(layer);
         });
         tiles.addTo(map)
-        
-        var reaktorySel = Object.values(reaktory).filter(re => 
-            ((re.start >= startPeriod[0]) & (re.start <= startPeriod[1])) 
+
+        var reaktorySel = Object.values(reaktory).filter(re =>
+            ((re.start >= startPeriod[0]) & (re.start <= startPeriod[1]))
             | ((re.zavreno >= startPeriod[0]) & (re.zavreno <= startPeriod[1]))  //filtr podle casu
         );
 
@@ -78,8 +78,8 @@ export function makeMap(reaktory) {
                     Object.keys(data).forEach(function(cname) {
                         var c = data[cname]
                         if (c.length > 0) {
-                            ttipHead = 'Elektrárna <b>' + c[0].platz + '</b>, ' + c[0].stat + ', výkon ' + c[0].kapacita + ' MWh';
-                            
+                            ttipHead = 'Elektrárna <b>' + c[0].platz + '</b>, ' + c[0].stat + ', výkon ' + c[0].kapacita + ' MW';
+
                             var years = []; //vypis let
                             if ((cname == 'start') | (cname == 'planned')) {
                                 c.forEach(function(v) {
@@ -90,7 +90,7 @@ export function makeMap(reaktory) {
                                     years.push(v.zavreno)
                                 })
                             }
-                            ttipBody += '<br>' + catName[cname] + c.length + ' (' 
+                            ttipBody += '<br>' + catName[cname] + c.length + ' ('
                             + String(Array.from(new Set(years))).replace(/,/g, ', ') + ')</span>'
                         }
                     })
@@ -99,7 +99,7 @@ export function makeMap(reaktory) {
             );
             };
         });
-        var plantMarkers = L.layerGroup(markers).addTo(map);  
+        var plantMarkers = L.layerGroup(markers).addTo(map);
     });
     };
 

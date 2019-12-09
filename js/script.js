@@ -1920,11 +1920,11 @@ Highcharts.chart('5-vyroba', {
     },
 
     title: {
-        text: 'Výroba elektřiny podle zdroje, Německo'
+        text: 'Globální výroba elektřiny podle zdroje'
     },
 
     subtitle: {
-        text: 'stav 2015 × plán 2050'
+        text: 'stav 2015 × scénář s vysokým podílem obnovitelných zdrojů 2050'
     },
 
     xAxis: {
